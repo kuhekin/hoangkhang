@@ -1,5 +1,5 @@
 ---
-title: Băng
+title: Băng chuyền sản phẩm
 categories: [dự án]
 comments: true
 ---
