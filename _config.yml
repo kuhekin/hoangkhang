@@ -18,7 +18,7 @@ cusdis:
 
 user:
   name: Nguyễn Hoàng Khang
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/avatar1.png
   picAlt: "catbook"
   job: sinh viên đợi bằng...
   aboutme: true # comment this out if you don't need the 'about' page.
